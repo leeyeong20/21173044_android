@@ -1,3 +1,3 @@
 # 2주차(20020315)
 -안드로이드 스튜디오 설치 &&깃허브 가입 및 저장소 생성
-<img width "" height="" src"./pic/저장이름.저장명 (현재 있는 폴더에 pic 폴더)></img>
+-<img width "40" height="50" src"./pic/2주차과제.png></img>
