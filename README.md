@@ -5,7 +5,7 @@
 
 ## 3주차 과제
 
--<img width="700" height="400" src="./png/3주차_메인.png"></img>
--<img width="700" height="400" src="./png/3주차_네이버.png"></img>
--<img width="700" height="400" src="./png/3주차_전화걸기.png"></img>
+-<img width="400" height="700" src="./png/3주차_메인.png"></img>
+-<img width="400" height="700" src="./png/3주차_네이버.png"></img>
+-<img width="400" height="700" src="./png/3주차_전화걸기.png"></img>
 
