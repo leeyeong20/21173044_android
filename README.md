@@ -3,7 +3,7 @@
 -<img width="600" height="500" src="./png/2week.png"></img>
 
 
-## 3주차 과제
+## 3주차(20220322)
 
 -<img width="400" height="700" src="./png/3주차_메인.png"></img>
 -<img width="400" height="700" src="./png/3주차_네이버.png"></img>
