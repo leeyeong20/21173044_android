@@ -12,6 +12,6 @@
 # 5주차(20220405)
 -<img width="500" height="800" src="./png/5주차_강아지.png"></img>
 -<img width="500" height="800" src="./png/5주차_고양이.png"></img>
--<img width="500" height="800" src="./png/xml 소스파일.png"></img>
--<img width="400" height="800" src="./png/java 소스파일.png"></img>
+-<img width="600" height="800" src="./png/xml 소스파일.png"></img>
+-<img width="600" height="800" src="./png/java 소스파일.png"></img>
 
