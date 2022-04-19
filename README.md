@@ -15,3 +15,6 @@
 -<img width="700" height="800" src="./png/xml 소스파일.png"></img>
 -<img width="600" height="700" src="./png/java 소스파일.png"></img>
 
+# 6주차(20220415)
+-<img width="500" height="800" src="./png/6주차_넓이.png"></img>
+-<img width="500" height="800" src="./png/6주차_높이.png"></img>
