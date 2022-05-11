@@ -18,3 +18,9 @@
 # 6주차(20220415)
 -<img width="500" height="800" src="./png/6주차_넓이.png"></img>
 -<img width="500" height="800" src="./png/6주차_높이.png"></img>
+
+# 10주차(20220510)
+-<img width="500" height="800" src="./png/10주차_과제.png"></img>
+-<img width="500" height="800" src="./png/10주차_과제1.png"></img>
+-<img width="500" height="800" src="./png/10주차_과제2.png"></img>
+-<img width="500" height="800" src="./png/10주차_과제3.png"></img>
